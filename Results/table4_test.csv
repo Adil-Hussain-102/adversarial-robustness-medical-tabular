@@ -1,0 +1,9 @@
+Dataset,Model,Seed,n,fail_rate,median_dist,succ@0.1,succ@0.2,succ@0.5
+BreastCancer,LogReg,0,20,0.0,0.498955,0.0,0.05,0.5
+BreastCancer,SVM,0,20,0.05,0.6568079,0.0,0.05,0.4
+BreastCancer,RandomForest,0,20,0.0,0.974291,0.0,0.0,0.25
+BreastCancer,XGBoost,0,20,0.0,0.85432684,0.05,0.05,0.15
+Diabetes,LogReg,0,20,0.0,1.1282785,0.05,0.05,0.1
+Diabetes,SVM,0,20,0.0,0.92742133,0.0,0.05,0.15
+Diabetes,RandomForest,0,20,0.0,0.82104456,0.0,0.0,0.2
+Diabetes,XGBoost,0,20,0.0,0.6706542,0.1,0.25,0.3
